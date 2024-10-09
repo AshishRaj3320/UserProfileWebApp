@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|c:\\users\\ashis\\source\\repos\\userprofilewebapp\\userprofilewebapp\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|solutionrelative:userprofilewebapp\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|c:\\users\\ashis\\source\\repos\\userprofilewebapp\\userprofilewebapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|solutionrelative:userprofilewebapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|c:\\users\\ashis\\source\\repos\\userprofilewebapp\\userprofilewebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|solutionrelative:userprofilewebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|c:\\users\\ashis\\source\\repos\\userprofilewebapp\\userprofilewebapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|solutionrelative:userprofilewebapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|c:\\users\\ashis\\source\\repos\\userprofilewebapp\\userprofilewebapp\\validators\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370FAA8C-9AEC-4357-A31E-F366494310C3}|UserProfileWebApp\\UserProfileWebApp.csproj|solutionrelative:userprofilewebapp\\validators\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:06:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UserProfileWebApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "UserProfileWebApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:06:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileExtensionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Validators\\FileExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "UserProfileWebApp\\Validators\\FileExtensionAttribute.cs",
+              "ToolTip": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Validators\\FileExtensionAttribute.cs",
+              "RelativeToolTip": "UserProfileWebApp\\Validators\\FileExtensionAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:52:40.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:13:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ashis\\source\\repos\\UserProfileWebApp\\UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "UserProfileWebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T05:13:35.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
